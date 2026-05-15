@@ -1,4 +1,4 @@
-# 
+# rare Polymarket Module | backtesting + volume-analysis is the best Polymarket module, featuring backtesting and volume-analysis. Smart, fast, and optimized for trading on
 
 
 
